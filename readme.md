@@ -18,4 +18,5 @@ This project was created to allow myself host static websites and use a virtual 
 
 
 ## Next Steps
-    1.As my progess with web development progesses, I intend on using this web hosting service to backup data and create virtual machines.
+
+1.As my progess with web development progesses, I intend on using this web hosting service to backup data and create virtual machines.
