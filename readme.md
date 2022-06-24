@@ -3,7 +3,9 @@
 This project was created to allow myself host static websites and use a virtual machine. For this to work, you will need an amazon s3 account to host sites and virtual machines.
 
 ## ScreenShots
-![About Page w/ Nav Bar](https://i.imgur.com/sLFFB1k.png)
+![HomePage](https://i.imgur.com/1WHeiQV.png)
+![Deployed Test Site](https://i.imgur.com/31ObFRT.png)
+![List of Sites](https://i.imgur.com/LI3ppXL.png)
 
 
 ## Technologies Used
