@@ -18,5 +18,4 @@ This project was created to allow myself host static websites and use a virtual 
 
 
 ## Next Steps
-    1.As my progess with web develeopment progesses, I intend on using this web hosting service through amazon
-    2.I'll add more pages and make changes to current pages down the road as I learn more development tools and processes to showcase.
+    1.As my progess with web development progesses, I intend on using this web hosting service to backup data and create virtual machines.
